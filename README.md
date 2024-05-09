@@ -50,4 +50,10 @@ you can clone the repo and use the html files for demo
 ### License
 
 this Repo Only Provides Sample Codes For Ease of Access for further project !
-Be Notified that for the use of the fonts you must get a valid license from the Official Font Resellers .
+Be Notified that for the use of the fonts you must get a valid license from the [Official Reseller](https://fontiran.com) .
+
+-Provide License Code in a **HTML META TAG** as Below
+
+```html
+<meta name="fontiran.com:license" content="[LICENSE CODE]" />
+```
